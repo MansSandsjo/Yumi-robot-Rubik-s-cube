@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
+/*
+main class
+*/
 from sys import exit as Die
 try:
     import solver as sv
