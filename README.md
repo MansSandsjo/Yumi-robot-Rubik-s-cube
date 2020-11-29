@@ -1,2 +1,2 @@
 # Yumi-robot-Rubik-s-cube
-Goal of this project was to have an ABB Yumi robot solve a Rubik’s cube. This was done by utilizing computer vision to scan the cube's sides, grouping them, and then solving it with an algorithm.
+In this project any configuration of a 2x2 Rubik’s cube was solved by an ABB IRB14000 Yumi robot.It was made possible by utilizing computer vision to scan the current layout of the cube, solve the cubewith an algorithm, and execute the solution with Yumi.  In an early stage of the project, an AI solver was tried but replaced with a simpler algorithm when the necessary computing power could not be met.
